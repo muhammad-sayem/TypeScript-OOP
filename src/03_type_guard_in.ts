@@ -46,7 +46,6 @@ const user2: SpecialUser = {
 
 getUserInfo(user1);
 getUserInfo(user2);
-
 /*
   Ekhane ekhon type guard er maddhome emon kora hoise je shudhu name 
   pass korle NormalUser er type er ta print hobe ar name and role pathale
