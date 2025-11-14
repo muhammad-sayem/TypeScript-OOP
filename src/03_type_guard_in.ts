@@ -9,10 +9,12 @@ const add = (num1: Alphanumeric, num2: Alphanumeric) => {
   }
 }
 
+// ###### If I want to do this, then the upper code for this ###### //
 add(2, 2) // 4
 add(2, "2") // 22
 add('2', 2) // 22
 add('2', "2") // 22
+// ###### If I want to do this, then the upper code for this ###### //
 
 // ------------------------------------ //
 
